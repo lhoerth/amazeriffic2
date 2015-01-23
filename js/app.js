@@ -1,3 +1,11 @@
+/**
+ * Logan Hoerth - lhoerth@mail.greenriver.edu
+ * JavaScript code for "Amazeriffic II" - 1/22/2015
+ * Amazeriffic II is the second iteration of the fake website 
+ * Amazeriffic! from Semmy Purewal's Learning Web App Development 
+ * book. It implements interactivity using JavaScript with jQuery.
+ * */
+ 
 var main = function () {
 	"use strict";
 	
