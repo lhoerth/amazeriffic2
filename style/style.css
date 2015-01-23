@@ -49,6 +49,11 @@ h3 {
 	margin-bottom: 20px;
 }
 
+/* for accordion headings */
+#accordion h3 {
+	width: auto;
+}
+
 h4 {
 	font-family: 'Ubuntu', sans-serif;
 }
