@@ -32,7 +32,7 @@ h1 {
 }
 
 h2 {
-	float: left;
+	/* float: left; */
 	width: 570px;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 2em;
@@ -52,6 +52,9 @@ h3 {
 /* for accordion headings */
 #accordion h3 {
 	width: auto;
+	float: none;
+	padding-top: 0;
+	margin-bottom: 0;
 }
 
 h4 {
@@ -150,3 +153,15 @@ footer .sitemap {
 	font-weight: bold;
 	font-size: 1.2em;
 }
+
+#accordion {
+	width: 570px;
+	overflow: hidden;
+}
+
+#right-col {
+	width: 285px;
+	float: right;
+	display: inline-block;
+}
+
